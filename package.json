@@ -1,0 +1,20 @@
+{
+  "name": "cloone_airbnb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^2.9.16",
+    "graphql": "^14.6.0",
+    "graphql-import": "^0.7.1",
+    "mongoose": "^5.8.10"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
